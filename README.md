@@ -1,10 +1,6 @@
 # python-wordle
 An implementation of Wordle in Python than can be played via the terminal.
 
-# WordleBot
-
-Algorithm to solve the wordle game.
-
 About wordle game: https://www.nytimes.com/games/wordle/index.html
 
 ### usage
@@ -16,6 +12,11 @@ python3 play_wordle.py
 ```
 
 > ## Experimental!
+
+# WordleBot
+
+Algorithm to solve the wordle game.
+
 ### Algorithm (switch to wordlebot branch)
 From 3Blue1Brown's idea of entropy:
 

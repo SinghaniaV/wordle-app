@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=v68zYyaEmEA
 
 ### usage
 ```
-clone the repo
+clone the wordlebot branch
 cd WordleBot
 python3 -m pip install -r requirements.txt
 python3 game.py 

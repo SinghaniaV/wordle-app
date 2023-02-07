@@ -27,6 +27,8 @@ You can use this wordlebot to solve games held by third party such as https://ww
 
 Just use the interactive mode, wordlebot will get the pattern of each round from your input and suggests the next best guess.
 ```
+clone the repo (wordlebot branch)
+cd ./wordlebot
 python3 game.py --interactive
 ```
 

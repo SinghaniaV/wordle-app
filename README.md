@@ -1,4 +1,5 @@
-# python-wordle
+# wordle-app
+
 An implementation of Wordle in Python than can be played via the terminal.
 
 About wordle game: https://www.nytimes.com/games/wordle/index.html

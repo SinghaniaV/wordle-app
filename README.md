@@ -6,8 +6,6 @@ About wordle game: https://www.nytimes.com/games/wordle/index.html
 
 ### usage
 ```
-clone the repo
-cd python-wordle
 python3 -m pip install -r requirements.txt
 python3 play_wordle.py 
 ```

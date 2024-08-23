@@ -8,7 +8,7 @@ import random
 def main():
 
     # new-word.txt added
-    word_set = load_word_set("data/new-words.txt")
+    word_set = load_word_set("data/words.txt")
     secret = random.choice(list(word_set))
     wordle = Wordle(secret)
 
